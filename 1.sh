@@ -1,1 +1,0 @@
-echo root:123456 | chpasswd root
